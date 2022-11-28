@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "run": "node bin/brain-even.js"
+    "run": "node bin/brain-calc.js",
+    "lint-fix": "npx eslint . --fix"
   },
   "author": "",
   "license": "ISC",
   "type": "module",
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/brain-even.js",
+    "brain-calc": "bin/brain-calc.js"
   },
   "dependencies": {
     "eslint": "^8.26.0",
