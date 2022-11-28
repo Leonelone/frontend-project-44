@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "run": "node bin/brain-calc.js",
+    "run": "node bin/brain-gcd.js",
     "lint-fix": "npx eslint . --fix"
   },
   "author": "",
@@ -12,7 +12,8 @@
   "bin": {
     "brain-games": "bin/brain-games.js",
     "brain-calc": "bin/brain-calc.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/brain-even.js",
+    "brain-gcd": "bin/brain-gcd.js"
   },
   "dependencies": {
     "eslint": "^8.26.0",
