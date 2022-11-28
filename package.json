@@ -1,39 +1,26 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "description": "frontend-project-44",
-  "main": "index.js",
+  "description": "",
+  "scripts": {
+    "run": "node bin/brain-prime.js",
+    "lint-fix": "npx eslint . --fix"
+  },
+  "author": "",
+  "license": "ISC",
   "type": "module",
   "bin": {
     "brain-games": "bin/brain-games.js",
     "brain-calc": "bin/brain-calc.js",
+    "brain-even": "bin/brain-even.js",
     "brain-gcd": "bin/brain-gcd.js",
     "brain-progression": "bin/brain-progression.js",
-    "brain-prime": "bin/brain-prime.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-prime": "bin/brain-prime.js"
   },
-  "scripts": {
-    "run": "node bin/brain-progression.js",
-    "lint-fix": "npx eslint . --fix"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Leonelone/frontend-project-44.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Leonelone/frontend-project-44/issues"
-  },
-  "homepage": "https://github.com/Leonelone/frontend-project-44#readme",
   "dependencies": {
+    "eslint": "^8.26.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
-    "jest": "^29.2.2",
     "readline-sync": "^1.4.10"
-  },
-  "devDependencies": {
-    "eslint": "^8.26.0",
-    "eslint-plugin-jest": "^27.1.3"
   }
 }

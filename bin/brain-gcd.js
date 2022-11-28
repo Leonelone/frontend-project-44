@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-import {say} from '../src/cli.js';
-import {getRandomNumber, greeting, runGame} from '../src/index.js';
+import { say } from '../src/cli.js';
+import { getRandomNumber, greeting, runGame } from '../src/index.js';
 
 const BRAIN_GCD_WELCOME = 'Find the greatest common divisor of given numbers.';
 
