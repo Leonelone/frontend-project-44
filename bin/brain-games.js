@@ -2,7 +2,7 @@
 import { greeting } from '../src/index.js';
 
 const main = () => {
-    greeting();
+  greeting();
 };
 
 main();

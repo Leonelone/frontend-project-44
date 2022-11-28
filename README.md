@@ -6,3 +6,6 @@
 
 ### Brain-even game:
 [![asciicast](https://asciinema.org/a/LN5miOLSAb1oVGD3dWoZZimcS.svg)](https://asciinema.org/a/LN5miOLSAb1oVGD3dWoZZimcS)
+
+### Brain-calc game:
+[![asciicast](https://asciinema.org/a/0U5MBD4KGazKQrJKH5GQ9ujhv.svg)](https://asciinema.org/a/0U5MBD4KGazKQrJKH5GQ9ujhv)
