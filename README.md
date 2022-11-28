@@ -5,4 +5,4 @@
 <a href="https://codeclimate.com/github/Leonelone/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/c1611d4778dd2fe20382/maintainability" /></a>
 
 ### Brain-even game:
-<a href="https://asciinema.org/a/LN5miOLSAb1oVGD3dWoZZimcS" />https://asciinema.org/a/LN5miOLSAb1oVGD3dWoZZimcS
+[![asciicast](https://asciinema.org/a/LN5miOLSAb1oVGD3dWoZZimcS.svg)](https://asciinema.org/a/LN5miOLSAb1oVGD3dWoZZimcS)
