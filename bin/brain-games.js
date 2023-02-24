@@ -1,8 +1,5 @@
 #!/usr/bin/env node
-import { greeting } from '../src/index.js';
 
-const main = () => {
-  greeting();
-};
+import main from '../src/games/game-games.js';
 
 main();

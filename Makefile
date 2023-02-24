@@ -1,9 +1,6 @@
 install-deps:
 	npm ci
 
-clear:
-	npm link
-
 brain-games:
 	node bin/brain-games.js
 
