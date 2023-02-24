@@ -1,6 +1,6 @@
 import { say } from '../cli.js';
 import { getRandomNumber, greeting } from '../utils.js';
-import { runGame } from '../index.js';
+import runGame from '../index.js';
 
 const BRAIN_PRIME_WELCOME = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 

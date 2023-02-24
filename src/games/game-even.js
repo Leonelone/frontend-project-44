@@ -1,6 +1,6 @@
 import { say } from '../cli.js';
 import { getRandomNumber, greeting } from '../utils.js';
-import { runGame } from '../index.js';
+import runGame from '../index.js';
 
 const BRAIN_EVEN_WELCOME = 'Answer "yes" if the number is even, otherwise answer "no".';
 

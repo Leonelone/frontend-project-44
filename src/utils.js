@@ -1,4 +1,4 @@
-import {ask, say} from "./cli.js";
+import { ask, say } from './cli.js';
 
 const BRAIN_GAMES_WELCOME_MESSAGE = 'Welcome to the Brain Games!\nMay I have your name? ';
 

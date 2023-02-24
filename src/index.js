@@ -1,6 +1,7 @@
 import { ask, say } from './cli.js';
-import  { gameOver } from './utils.js';
-export const runGame = (userName, questionFunc) => {
+import { gameOver } from './utils.js';
+
+const runGame = (userName, questionFunc) => {
   let count = 0;
   const limit = 3;
   while (count < limit) {
@@ -18,3 +19,5 @@ export const runGame = (userName, questionFunc) => {
     say(`Congratulations, ${userName}!`);
   }
 };
+
+export default runGame;

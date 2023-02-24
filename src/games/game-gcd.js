@@ -1,6 +1,6 @@
 import { say } from '../cli.js';
 import { getRandomNumber, greeting } from '../utils.js';
-import { runGame } from '../index.js';
+import runGame from '../index.js';
 
 const BRAIN_GCD_WELCOME = 'Find the greatest common divisor of given numbers.';
 
